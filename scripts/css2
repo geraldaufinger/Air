@@ -1,0 +1,30 @@
+/* latin */
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://web.archive.org/web/20220801210611im_/https://fonts.gstatic.com/s/syncopate/v19/pe0pMIuPIYBCpEV5eFdKvtKqBP5v.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*
+     FILE ARCHIVED ON 21:06:11 Aug 01, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:31:32 Apr 14, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 86.877
+  exclusion.robots: 0.194
+  exclusion.robots.policy: 0.173
+  cdx.remote: 0.131
+  esindex: 0.017
+  LoadShardBlock: 43.417 (3)
+  PetaboxLoader3.datanode: 48.925 (4)
+  load_resource: 71.125
+  PetaboxLoader3.resolve: 39.091
+*/
